@@ -1,0 +1,11 @@
+{
+  "name": "simple-nodejs-app",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "echo 'Building the application...'",
+    "test": "echo 'Running tests...'",
+    "start": "node app.js"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
